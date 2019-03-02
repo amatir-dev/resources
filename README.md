@@ -1,3 +1,3 @@
-# RubyonRails.link Slack Community
+# Komunitas Slack AMATIR.DEV
 
-## [Wiki](https://github.com/railslink/resources/wiki)
+## [Wiki](https://github.com/amatir-dev/resources/wiki)
